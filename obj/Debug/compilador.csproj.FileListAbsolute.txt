@@ -7,3 +7,12 @@ C:\Users\juancamilo\Documents\Visual Studio 2015\Projects\compilador\compilador\
 C:\Users\juancamilo\Documents\Visual Studio 2015\Projects\compilador\compilador\obj\Debug\compilador.csproj.GenerateResource.Cache
 C:\Users\juancamilo\Documents\Visual Studio 2015\Projects\compilador\compilador\obj\Debug\compilador.exe
 C:\Users\juancamilo\Documents\Visual Studio 2015\Projects\compilador\compilador\obj\Debug\compilador.pdb
+C:\Users\juancamilo\Documents\GitHub\compiladores\bin\Debug\compilador.exe.config
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.exe
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.pdb
+C:\Users\juancamilo\Documents\GitHub\compiladores\bin\Debug\compilador.exe
+C:\Users\juancamilo\Documents\GitHub\compiladores\bin\Debug\compilador.pdb
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.csprojResolveAssemblyReference.cache
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.Form1.resources
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.Properties.Resources.resources
+C:\Users\juancamilo\Documents\GitHub\compiladores\obj\Debug\compilador.csproj.GenerateResource.Cache
